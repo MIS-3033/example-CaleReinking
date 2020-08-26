@@ -10,7 +10,7 @@ namespace Methods_Participation
         {
 
             double num1 = 2;
-                double num2 = 5;
+            double num2 = 5;
             var name = Console.ReadLine();
             var summation = Add(num1, num2);
             Console.WriteLine(summation.ToString("C5"));
@@ -19,6 +19,7 @@ namespace Methods_Participation
         {
             double sum = 0;
             sum = firstnumber + secondnumber;
+            return sum;
         }
             
     }
