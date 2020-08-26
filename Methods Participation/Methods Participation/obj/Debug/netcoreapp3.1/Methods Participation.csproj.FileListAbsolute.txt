@@ -1,0 +1,4 @@
+C:\Users\Charlene\Source\Repos\MIS-3033\example-CaleReinking\Methods Participation\Methods Participation\obj\Debug\netcoreapp3.1\Methods Participation.csprojAssemblyReference.cache
+C:\Users\Charlene\Source\Repos\MIS-3033\example-CaleReinking\Methods Participation\Methods Participation\obj\Debug\netcoreapp3.1\Methods Participation.AssemblyInfoInputs.cache
+C:\Users\Charlene\Source\Repos\MIS-3033\example-CaleReinking\Methods Participation\Methods Participation\obj\Debug\netcoreapp3.1\Methods Participation.AssemblyInfo.cs
+C:\Users\Charlene\Source\Repos\MIS-3033\example-CaleReinking\Methods Participation\Methods Participation\obj\Debug\netcoreapp3.1\Methods Participation.csproj.CoreCompileInputs.cache
