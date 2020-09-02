@@ -1,0 +1,12 @@
+C:\Users\Charlene\source\repos\MIS-3033\example-CaleReinking\ConsoleApp1\StudentUMLExample\bin\Debug\netcoreapp3.1\StudentUMLExample.exe
+C:\Users\Charlene\source\repos\MIS-3033\example-CaleReinking\ConsoleApp1\StudentUMLExample\bin\Debug\netcoreapp3.1\StudentUMLExample.deps.json
+C:\Users\Charlene\source\repos\MIS-3033\example-CaleReinking\ConsoleApp1\StudentUMLExample\bin\Debug\netcoreapp3.1\StudentUMLExample.runtimeconfig.json
+C:\Users\Charlene\source\repos\MIS-3033\example-CaleReinking\ConsoleApp1\StudentUMLExample\bin\Debug\netcoreapp3.1\StudentUMLExample.runtimeconfig.dev.json
+C:\Users\Charlene\source\repos\MIS-3033\example-CaleReinking\ConsoleApp1\StudentUMLExample\bin\Debug\netcoreapp3.1\StudentUMLExample.dll
+C:\Users\Charlene\source\repos\MIS-3033\example-CaleReinking\ConsoleApp1\StudentUMLExample\bin\Debug\netcoreapp3.1\StudentUMLExample.pdb
+C:\Users\Charlene\source\repos\MIS-3033\example-CaleReinking\ConsoleApp1\StudentUMLExample\obj\Debug\netcoreapp3.1\StudentUMLExample.AssemblyInfoInputs.cache
+C:\Users\Charlene\source\repos\MIS-3033\example-CaleReinking\ConsoleApp1\StudentUMLExample\obj\Debug\netcoreapp3.1\StudentUMLExample.AssemblyInfo.cs
+C:\Users\Charlene\source\repos\MIS-3033\example-CaleReinking\ConsoleApp1\StudentUMLExample\obj\Debug\netcoreapp3.1\StudentUMLExample.csproj.CoreCompileInputs.cache
+C:\Users\Charlene\source\repos\MIS-3033\example-CaleReinking\ConsoleApp1\StudentUMLExample\obj\Debug\netcoreapp3.1\StudentUMLExample.dll
+C:\Users\Charlene\source\repos\MIS-3033\example-CaleReinking\ConsoleApp1\StudentUMLExample\obj\Debug\netcoreapp3.1\StudentUMLExample.pdb
+C:\Users\Charlene\source\repos\MIS-3033\example-CaleReinking\ConsoleApp1\StudentUMLExample\obj\Debug\netcoreapp3.1\StudentUMLExample.genruntimeconfig.cache
