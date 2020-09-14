@@ -1,0 +1,15 @@
+C:\Users\Charlene\source\repos\MIS-3033\example-CaleReinking\CSV Example\CSV Example\obj\Debug\CSV Example.csprojAssemblyReference.cache
+C:\Users\Charlene\source\repos\MIS-3033\example-CaleReinking\CSV Example\CSV Example\obj\Debug\MainWindow.g.cs
+C:\Users\Charlene\source\repos\MIS-3033\example-CaleReinking\CSV Example\CSV Example\obj\Debug\App.g.cs
+C:\Users\Charlene\source\repos\MIS-3033\example-CaleReinking\CSV Example\CSV Example\obj\Debug\CSV Example_MarkupCompile.cache
+C:\Users\Charlene\source\repos\MIS-3033\example-CaleReinking\CSV Example\CSV Example\obj\Debug\CSV Example_MarkupCompile.lref
+C:\Users\Charlene\source\repos\MIS-3033\example-CaleReinking\CSV Example\CSV Example\bin\Debug\CSV Example.exe.config
+C:\Users\Charlene\source\repos\MIS-3033\example-CaleReinking\CSV Example\CSV Example\bin\Debug\CSV Example.exe
+C:\Users\Charlene\source\repos\MIS-3033\example-CaleReinking\CSV Example\CSV Example\bin\Debug\CSV Example.pdb
+C:\Users\Charlene\source\repos\MIS-3033\example-CaleReinking\CSV Example\CSV Example\obj\Debug\MainWindow.baml
+C:\Users\Charlene\source\repos\MIS-3033\example-CaleReinking\CSV Example\CSV Example\obj\Debug\CSV Example.g.resources
+C:\Users\Charlene\source\repos\MIS-3033\example-CaleReinking\CSV Example\CSV Example\obj\Debug\CSV_Example.Properties.Resources.resources
+C:\Users\Charlene\source\repos\MIS-3033\example-CaleReinking\CSV Example\CSV Example\obj\Debug\CSV Example.csproj.GenerateResource.cache
+C:\Users\Charlene\source\repos\MIS-3033\example-CaleReinking\CSV Example\CSV Example\obj\Debug\CSV Example.csproj.CoreCompileInputs.cache
+C:\Users\Charlene\source\repos\MIS-3033\example-CaleReinking\CSV Example\CSV Example\obj\Debug\CSV Example.exe
+C:\Users\Charlene\source\repos\MIS-3033\example-CaleReinking\CSV Example\CSV Example\obj\Debug\CSV Example.pdb
